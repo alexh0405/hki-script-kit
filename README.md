@@ -10,6 +10,21 @@ Transkript oder deine Outline** — der Skill macht den Rest, Schritt für Schri
 
 ---
 
+## ⚡ Installation in 10 Sekunden (der einfachste Weg)
+
+Öffne **Claude Code**, füge diese Zeile ein und schick sie ab:
+
+```
+Installier mir diesen Skill: https://github.com/alexh0405/hki-script-kit
+```
+
+Claude liest die `INSTALL.md` aus diesem Repo und installiert den Skill automatisch nach
+`~/.claude/skills/`. Danach Claude Code einmal neu starten — fertig.
+
+> Falls Claude nachfragt: einfach bestätigen. Der Skill ist schreibgeschützt und sicher.
+
+---
+
 ## Was der Skill kann
 
 Ein durchgehender Workflow mit drei Einstiegen:
@@ -24,39 +39,23 @@ Outline erstellen lassen und später das Skript.
 
 ---
 
-## Installation (einmalig)
+## Alternative: manuelle Installation
 
-### Voraussetzung
-- [Claude Code](https://claude.com/claude-code) installiert (CLI, Desktop-App oder VS-Code-Extension)
-- Python 3 (für die Live-Kanal-Daten; auf macOS meist schon vorhanden)
-
-### Schritt 1 — Skill herunterladen
-
-**Variante A (GitHub):**
-```bash
-git clone <REPO-URL> herzkraft-script
-```
-
-**Variante B (ZIP):** ZIP herunterladen und entpacken.
-
-### Schritt 2 — Skill in Claude Code ablegen
-
-Verschiebe den Ordner `herzkraft-script` in dein Claude-Skills-Verzeichnis:
+Falls du es lieber selbst per Terminal machst:
 
 ```bash
-mkdir -p ~/.claude/skills
-mv herzkraft-script ~/.claude/skills/
+mkdir -p ~/.claude/skills && \
+git clone --depth 1 https://github.com/alexh0405/hki-script-kit ~/.claude/skills/herzkraft-script
 ```
 
-(Alternativ projektbezogen: in `.claude/skills/` deines Projekts.)
-
-### Schritt 3 — Prüfen
-
-Starte Claude Code und tippe:
+Danach Claude Code neu starten und tippen:
 ```
 /herzkraft-script
 ```
 oder einfach: *"Schreib mir ein YouTube-Skript für Herzkraft Invest über IAB-fähige Investments."*
+
+**Voraussetzung:** [Claude Code](https://claude.com/claude-code) installiert, Python 3 vorhanden
+(für die Live-Kanal-Daten; auf macOS meist schon da).
 
 ---
 
