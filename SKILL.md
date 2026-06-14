@@ -26,6 +26,33 @@ Zusätzlich vor jeder Ausgabe das §3-Pflicht-Gate und den §3.7 PRE-FINAL SELF-
 
 ---
 
+## 🛑 PFLICHT-REGEL: MANUELLE FREIGABE PRO BLOCK (NICHT UMGEHBAR)
+
+**Das gesamte Skript wird ausschließlich Block für Block geschrieben — mit manueller
+Freigabe des Nutzers nach JEDEM einzelnen Block.** Der Nutzer hat damit zu jedem Zeitpunkt
+die volle Kontrolle. Diese Regel hat denselben Rang wie die Hard Rules.
+
+**Verbindlicher Ablauf für jeden generierten Block (Hook, jeder Body-Block, jede Bridge, CTA, Outro):**
+1. Genau **EINEN** Block schreiben (oder bei Hook: die 3 Varianten).
+2. Den Block zeigen + kurze Selbst-Evaluation.
+3. **Stoppen und explizit fragen:** *"Passt dieser Block so, oder möchtest du etwas ändern?"*
+4. **Auf eine klare Freigabe des Nutzers warten.** Erst danach den nächsten Block schreiben.
+
+**Absolut verboten:**
+- Mehrere Blöcke in einer Antwort schreiben, ohne dazwischen auf Freigabe zu warten.
+- Das komplette Skript "am Stück" liefern, auch wenn der Nutzer "schreib das Skript" sagt —
+  das ist der Start des Block-für-Block-Prozesses, **keine** Freigabe für alles auf einmal.
+- Nach einem Feedback weiterspringen, ohne den überarbeiteten Block erneut freigeben zu lassen.
+
+**Einzige Ausnahme:** Der Nutzer sagt *ausdrücklich und unmissverständlich*, er wolle das
+ganze Skript ohne Zwischen-Freigaben (z. B. "schreib alles auf einmal durch, ohne Stopps").
+Nur dann darf der Block-Modus übersprungen werden — vorher einmal kurz rückversichern.
+
+Diese Regel gilt zusätzlich zu den Phasen-Gates (Outline-Freigabe, Hook-Freigabe,
+Reihenfolge-Freigabe). Im Zweifel: lieber einmal mehr fragen als einen Block ungefragt liefern.
+
+---
+
 ## Brand Voice — wie das JSON gelesen wird
 
 Die Brand-Voice-Datei nutzt das Herzkraft-Schema. So werden die Felder angewendet:
@@ -236,8 +263,15 @@ Präsentiere alle 3 mit kurzer Begründung. **Warte auf Auswahl.** Kein weiterer
 
 Zeige die Reihenfolge, hole Freigabe.
 
-### SCHRITT 4: Body — Block für Block
-Erst nach Outline-Freigabe. Jeden Block einzeln schreiben und freigeben lassen.
+### SCHRITT 4: Body — Block für Block (mit Pflicht-Freigabe nach JEDEM Block)
+Erst nach Outline-Freigabe. **Es gilt die Pflicht-Regel "Manuelle Freigabe pro Block" oben.**
+
+Mikro-Ablauf pro Body-Block — strikt einhalten:
+1. **Einen** Body-Block schreiben (nur diesen einen).
+2. Block + kurze Selbst-Evaluation zeigen (Unique? Value Loop vollständig? Brand Voice? Compliance?).
+3. Fragen: *"Passt dieser Block, oder möchtest du etwas ändern?"*
+4. **Warten.** Erst nach Freigabe den nächsten Block. Bei Änderungswunsch: überarbeiten,
+   erneut zeigen, erneut freigeben lassen — nicht zum nächsten Block springen.
 
 Pro Block — **WWH Value Loop** (siehe `references/wwh_template.md`):
 1. **WAS** (Context): klar, einfach, Fachbegriff sofort erklären
@@ -317,7 +351,7 @@ Findings als Liste ausgeben, kritische direkt fixen, Changelog zeigen. Erst dann
 - Immer Deutsch, Du-Anrede, Plain-Text-Skript
 - Nie ohne Hard Rules + Brand Voice + Kanal-Profil starten
 - Nie konkrete Renditeversprechen, Hype, Steuerberatung im rechtlichen Sinn
-- Nie einen Block ohne Freigabe überspringen
+- **Jeder Block braucht manuelle Freigabe, bevor der nächste geschrieben wird** (siehe Pflicht-Regel oben) — nie mehrere Blöcke am Stück, nie das ganze Skript ungefragt auf einmal
 - Quality Gates wirklich prüfen, nicht abnicken
 - Keine erfundenen Videos im CTA — Live-Daten nutzen oder generisch verweisen
 
