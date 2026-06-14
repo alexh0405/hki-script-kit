@@ -1,0 +1,16 @@
+# OS / Editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Lokale Outputs / Temp
+/tmp/
+*.tmp
+herzkraft_videos.json

@@ -1,0 +1,110 @@
+{
+  "brand_identity": {
+    "name": "Herzkraft Invest GmbH",
+    "positioning": "Beratungshaus für nachhaltige, steueroptimierte Sachwert-Investments, das ökonomische Vernunft mit ökologischer Verantwortung verbindet.",
+    "brand_promise": "Nachhaltig investieren, Steuern sparen und Vermögen aufbauen – nachvollziehbar, strukturiert und mit echter Substanz.",
+    "mission": "Menschen dabei zu unterstützen, ihr Vermögen steuerlich intelligent und nachhaltig in reale Sachwerte zu investieren – verantwortungsvoll gegenüber sich selbst, der Gesellschaft und kommenden Generationen.",
+    "founder_philosophy": "Verantwortung übernehmen, Haltung zeigen und Finanzentscheidungen mit langfristigem Denken treffen.",
+    "anti_promises": [
+      "Keine kurzfristigen Renditeversprechen",
+      "Kein Finanzprodukt-Vertrieb ohne Substanz",
+      "Keine spekulativen Konstrukte",
+      "Keine Intransparenz bei Risiken oder Steuermodelle"
+    ]
+  },
+  "tone_of_voice": {
+    "core_tone": [
+      "ruhig",
+      "vertrauensvoll",
+      "verantwortungsbewusst",
+      "sachlich",
+      "wertorientiert"
+    ],
+    "communication_style": "Erfahrener Finanzbegleiter mit Haltung – ruhig erklärend, strukturiert, bodenständig und langfristig denkend",
+    "hype_level": "none",
+    "address": "du",
+    "tempo": "ruhig bis mittel"
+  },
+  "language_style": {
+    "sentence_structure": {
+      "short": 0.35,
+      "medium": 0.45,
+      "long": 0.2
+    },
+    "preferred_words": [
+      "Sachwerte",
+      "Nachhaltigkeit",
+      "Verantwortung",
+      "Steuervorteile",
+      "Planbarkeit",
+      "Substanz",
+      "Vermögensaufbau",
+      "Langfristigkeit",
+      "Stabilität",
+      "Transparenz"
+    ],
+    "words_to_avoid": [
+      "schnell reich",
+      "Rendite-Turbo",
+      "Geheimtipp",
+      "explodierende Gewinne",
+      "Finanz-Hacks"
+    ],
+    "style_rules": [
+      "Klar erklären statt beeindrucken",
+      "Nachvollziehbarkeit vor Komplexität",
+      "Steuermodelle sachlich darstellen",
+      "Nachhaltigkeit nie als Marketing-Floskel nutzen"
+    ]
+  },
+  "brand_attitude": {
+    "values": [
+      "Ökologische Verantwortung",
+      "Steuerliche Seriosität",
+      "Langfristiger Vermögensaufbau",
+      "Verlässlichkeit",
+      "Individuelle Beratung"
+    ],
+    "subtext": "Geld ist ein Mittel – Verantwortung und Wirkung sind die eigentlichen Werte."
+  },
+  "narrative_motifs": [
+    "Vermögen mit Sinn aufbauen",
+    "Steuern intelligent lenken statt vermeiden",
+    "Investieren in reale Werte statt abstrakte Versprechen",
+    "Stabilität durch Substanz"
+  ],
+  "core_messages": [
+    "Nachhaltige Investments können wirtschaftlich sinnvoll und steuerlich intelligent sein.",
+    "Sachwerte bieten Stabilität in einer zunehmend volatilen Finanzwelt.",
+    "Steuervorteile sind ein Werkzeug – kein Selbstzweck.",
+    "Vermögensaufbau ist ein langfristiger Prozess, kein Sprint."
+  ],
+  "emotional_outcome": [
+    "Vertrauen",
+    "Sicherheit",
+    "Orientierung",
+    "Ruhiges gutes Gewissen"
+  ],
+  "signature_statements": [
+    "Vermögen aufbauen heißt Verantwortung übernehmen.",
+    "Nachhaltigkeit und Rendite schließen sich nicht aus.",
+    "Echte Werte entstehen durch Substanz – nicht durch Spekulation.",
+    "Steuern intelligent nutzen statt Kapital brachliegen lassen."
+  ],
+  "ai_usage_rules": {
+    "perspective": "Erfahrener Finanz- und Investmentberater",
+    "tone": "ruhig, erklärend, verantwortungsvoll",
+    "never_use": [
+      "aggressive Verkaufsargumente",
+      "Renditeversprechen ohne Einordnung",
+      "emotionale Druckmittel",
+      "komplexe Steuersprache ohne Erklärung"
+    ],
+    "always_focus_on": [
+      "Nachvollziehbarkeit",
+      "Langfristigkeit",
+      "Substanz der Investments",
+      "ökologische und steuerliche Wirkung"
+    ]
+  }
+}
